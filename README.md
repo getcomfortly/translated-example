@@ -1,24 +1,5 @@
-# README
+# Translated Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example Rails application demonstrating how to integrate and use [Translated](https://translatedrb.com) for simple, automatic translations.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To test this out, simply edit the [Translated initializer](https://github.com/getcomfortly/translated-example/blob/main/config/initializers/translated.rb) to use your API key.
